@@ -9,4 +9,6 @@
 
 [![Github Followers](https://img.shields.io/github/followers/iipeace?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/iipeace?tab=followers)
 
-[![iipeace's github stats](https://github-readme-stats.vercel.app/api?username=iipeace&show_icons=true&hide_border=true)](https://github.com/iipeace)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iipeace&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=iipeace&show_icons=true&hide_border=true)](https://github.com/iipeace)
